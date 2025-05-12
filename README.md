@@ -1,4 +1,4 @@
-# Mini-Project---2
+# PhonePe Transaction Insights
 PhonePe Transaction Insights
 📊 PhonePe Pulse Data Analysis
 Welcome to the PhonePe Pulse Analysis project!
